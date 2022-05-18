@@ -1,0 +1,23 @@
+.nav {
+  width: 90%;
+  margin: 10px auto;
+  background-color: black;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  color: white;
+  padding: 10px;
+  height: 40px;
+}
+.nav h1 {
+  font-size: medium;
+}
+.link {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  align-items: center;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+  color: white;
+}
